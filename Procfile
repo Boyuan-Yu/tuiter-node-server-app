@@ -1,3 +1,3 @@
 "scripts": {
-  "start": "node app.js"
+  "start": "nodemon app.js"
 }
