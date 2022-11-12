@@ -1,3 +1,0 @@
-"scripts": {
-  "start": "nodemon app.js"
-}
